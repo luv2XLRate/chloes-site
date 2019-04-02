@@ -36,3 +36,4 @@ $('html, body').animate({
     scrollTop: target
 }, 500);
 event.preventDefault();
+});
